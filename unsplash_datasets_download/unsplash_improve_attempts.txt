@@ -1,0 +1,4 @@
+1. Research by multiple APIs (✓) (Limited up to 3 APIs due to IP)
+2. Research by different languages (TODO) 
+3. Research by users (TODO)
+4. Research by resolution (TODO)

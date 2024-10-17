@@ -1,0 +1,7 @@
+Please use clean_prompts, not the original one.
+
+The url in metadata will fetch a 2048*2048 image combo (2*2 before crop).
+127984 images in original DF.
+1 empty image combo from url (-4)
+4 duplicated image combos in original dataset (-16)
+accords 127964 total left
